@@ -4,3 +4,4 @@ tf-keras
 openai==0.28
 python-decouple
 pandas
+tensorflow-cpu
