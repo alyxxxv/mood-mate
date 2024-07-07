@@ -1,7 +1,7 @@
 streamlit
+tensorflow-cpu
 transformers==4.42.3
 tf-keras
 openai==0.28
 python-decouple
 pandas
-tensorflow-cpu
