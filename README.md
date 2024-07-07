@@ -1,4 +1,4 @@
-# Healthcare Chatbot Code
+# MoodMate
 This code sets up a healthcare chatbot assistant using Streamlit and Azure OpenAI. It provides a user-friendly interface where users can input their symptoms or health-related questions and receive responses from an AI assistant. The assistant uses the GPT model deployed on Azure OpenAI.
 
 **Requirements**
